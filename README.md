@@ -72,7 +72,7 @@ This project introduces an AI-driven rule-based fitness planner that:
 3.Smart health warnings and fitness tips
 
 
-## ✅ Detailed Weekly Workout Plan##
+## ✅ Detailed Weekly Workout Plan ##
 1.Day-wise structured workouts
 
 2.Exercise details with reps/duration
@@ -90,7 +90,7 @@ This project introduces an AI-driven rule-based fitness planner that:
 
 4.Macronutrient breakdown (Protein, Carbs, Fats)
 
-## ✅ Progress Tracking & Visualization##
+## ✅ Progress Tracking & Visualization ##
 1.Weekly BMI tracking
 
 2.Line chart for BMI progress visualization
