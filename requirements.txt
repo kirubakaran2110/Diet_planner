@@ -1,0 +1,5 @@
+# Requirements for the project
+streamlit
+pandas
+numpy
+matplotlib
